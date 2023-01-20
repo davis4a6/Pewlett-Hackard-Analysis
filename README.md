@@ -23,8 +23,8 @@ This list of retiring employees contains the employee number, first name, last n
 This list has some duplicates because there are some employees who have changed postions and departments over the years.
 
 Reitrement Titles Table (csv file in data folder)
-![Alt text](Visuals/Retirement%20Titles.PNG)
 
+![Alt text](Visuals/Retirement%20Titles.PNG)
 
 2. List of Employees Retiring by Most Recent Title 
 This list contains the employee number, first name, last name, title, their from date as well as their to date. 
@@ -32,6 +32,7 @@ This list also contains the latest titles that the potential retiree held.
 Lastly, this list contains no duplicates. It shows the retirees' latest postion.
 
 Unique Titles Table (csv file in data folder)
+
 ![Alt text](Visuals/Unique%20Titles.PNG)
 
 3. This table gives us more insight into the number of postions that will be open within the next few years for each title. It contains the employees' titles and the sum of each title. 
